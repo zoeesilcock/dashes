@@ -1,0 +1,8 @@
+{
+    "name": "NUnit-2.6.4",
+    "package": "nunit",
+    "index": "index.html",
+    "icon32x32": "icon.png",
+    "allowJS": false,
+    "ExternalURL": "https://github.com/nunit/nunitv2/releases/tag/2.6.4"
+}

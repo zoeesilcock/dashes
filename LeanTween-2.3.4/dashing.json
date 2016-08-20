@@ -1,0 +1,12 @@
+{
+    "name": "LeanTween-2.3.4",
+    "package": "leantween",
+    "index": "index.html",
+    "selectors": {
+        "#docs-main .content h1": "Class",
+        "#methods .method.item h3.name": "Method"
+    },
+    "icon32x32": "icon.png",
+    "allowJS": false,
+    "ExternalURL": "http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html"
+}
