@@ -12,3 +12,4 @@ the root of the documentation folder. Next run `dashing build [name]` where
 ## Documentation links
 * [LeanTween-2.3.4](https://github.com/dentedpixel/LeanTween/archive/Release2.34.zip)
 * [NUnit-2.6.4](https://github.com/nunit/nunitv2/releases/download/2.6.4/NUnit-2.6.4-docs.zip)
+* TouchScript-8.2 `wget -r http://touchscript.github.io/docs`

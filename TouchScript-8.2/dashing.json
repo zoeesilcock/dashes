@@ -1,0 +1,8 @@
+{
+    "name": "TouchScript-8.2",
+    "package": "touchscript",
+    "index": "docs/html/R_Project_Documentation.htm",
+    "icon32x32": "icon.png",
+    "allowJS": true,
+    "ExternalURL": "http://touchscript.github.io/docs"
+}
